@@ -1,0 +1,15 @@
+C:\Users\Mohan g p\C#\oops project\bin\Debug\net6.0\oops project.exe
+C:\Users\Mohan g p\C#\oops project\bin\Debug\net6.0\oops project.deps.json
+C:\Users\Mohan g p\C#\oops project\bin\Debug\net6.0\oops project.runtimeconfig.json
+C:\Users\Mohan g p\C#\oops project\bin\Debug\net6.0\oops project.dll
+C:\Users\Mohan g p\C#\oops project\bin\Debug\net6.0\oops project.pdb
+C:\Users\Mohan g p\C#\oops project\obj\Debug\net6.0\oops project.csproj.AssemblyReference.cache
+C:\Users\Mohan g p\C#\oops project\obj\Debug\net6.0\oops project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohan g p\C#\oops project\obj\Debug\net6.0\oops project.AssemblyInfoInputs.cache
+C:\Users\Mohan g p\C#\oops project\obj\Debug\net6.0\oops project.AssemblyInfo.cs
+C:\Users\Mohan g p\C#\oops project\obj\Debug\net6.0\oops project.csproj.CoreCompileInputs.cache
+C:\Users\Mohan g p\C#\oops project\obj\Debug\net6.0\oops project.dll
+C:\Users\Mohan g p\C#\oops project\obj\Debug\net6.0\refint\oops project.dll
+C:\Users\Mohan g p\C#\oops project\obj\Debug\net6.0\oops project.pdb
+C:\Users\Mohan g p\C#\oops project\obj\Debug\net6.0\oops project.genruntimeconfig.cache
+C:\Users\Mohan g p\C#\oops project\obj\Debug\net6.0\ref\oops project.dll
